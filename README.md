@@ -35,7 +35,7 @@ XYZ Finance is a modern, frontend-focused finance dashboard built to evaluate UI
 
 ---
 
-## 🧠 State Management Approach
+## State Management Approach
 
 The dashboard abandons prop-drilling or bulky Context providers in favor of **Zustand**. 
 Zustand was selected because it offers an extremely minimal boilerplate API while retaining high performance (isolated re-renders). It acts as the single source of truth for:
@@ -46,7 +46,7 @@ Zustand was selected because it offers an extremely minimal boilerplate API whil
 
 ---
 
-## 💻 Setup Instructions
+## Setup Instructions
 
 To get the application running locally:
 
@@ -69,14 +69,14 @@ To get the application running locally:
 
 ---
 
-## 🎨 Responsiveness & UX
+## Responsiveness & UX
 
 - **Responsive Strategy**: Follows a strict Mobile-First paradigm. The application features a persistent bottom-navigation bar on mobile devices, which expands into a fully-fledged Side Navigation Bar on desktop viewports.
 - **Dark Mode**: Integrated deeply with Tailwind's utility classes. Users can toggle a fully supported Dark Mode leveraging `document.documentElement`, shifting the application from crisp light layouts to a premium frosted "glassmorphism" night theme instantly.
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```text
 src/
