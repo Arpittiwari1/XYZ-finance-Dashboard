@@ -1,6 +1,6 @@
 # Finance Dashboard
 
-XYZ Finance is a modern, frontend-focused finance dashboard built to evaluate UI/UX design paradigms, component-driven architecture, and efficient state management. Designed with a premium "glassmorphism" aesthetic, it serves as a robust prototype for tracking transactions, analyzing spending behaviors, and managing mock user configurations.
+XYZ Finance is a modern, frontend-focused finance dashboard built to evaluate UI/UX design paradigms, component-driven architecture, and efficient state management.it serves as a robust prototype for tracking transactions, analyzing spending behaviors, and managing mock user configurations.
 
 ---
 
